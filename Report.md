@@ -8,7 +8,7 @@ The study focuses on understanding how access to essential health services diffe
 ## Methodology
 
 - The researchers used household survey data from 2000 to 2020 across multiple African countries.
-- They examined 14 essential health indicators, including immunization, antenatal care,family planning and child treatment services.
+- They examined 14 essential health indicators, including immunization, antenatal care, family planning, and child treatment services.
 - Using geospatial statistical models, they created maps showing variations in health service coverage both between and within countries. These maps helped visualize areas with the weakest access to care and how coverage changed over time.
 
 ### Key findings
@@ -41,5 +41,4 @@ The study focuses on understanding how access to essential health services diffe
 Evaluating which interventions and policies most effectively reduce disparities.
 - Strengthening data-sharing and collaboration across countries to support regional solutions.
 
-**Blessings,**
-**Mercy W. KURIA**
+
